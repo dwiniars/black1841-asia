@@ -1,0 +1,33 @@
+Author	Black, Adam
+Author	Black, Charles
+Author	Hall, Sydney
+Date	1841
+Short Title	Asia.
+Publisher	Adam & Charles Black
+Publisher Location	Edinburgh
+Type	Atlas Map
+Obj Height cm	27
+Obj Width cm	38
+Scale 1	35,000,000
+Reference	P779.
+World Area	Asia
+Full Title	Asia.
+List No	3937.037
+Page No	XXXV
+Series No	37
+Publication Author	Black, Adam
+Publication Author	Black, Charles
+Publication Author	Hall, Sydney
+Pub Date	1841
+Pub Title	Black's General Atlas: A Series Of Fifty-Four Maps From The Latest And Most Authentic Sources. Engraved On Steel, In The First Style Of The Art, By Sydney Hall. Edinburgh: Adam And Charles Black, North Bridge; Longman & Co.; Simpkin, Marshall, & Co.; Whittaker & Co.; And Hamilton, Adams, & Co. London; And John Cumming, Dublin. M.DCCC.XLI.
+Pub Reference	P779.
+Pub Note	The second edition, the first appearing in 1840. Only the 1840 and 41 editions were engraved exclusively by Hall. Starting with the 1844 edition, Hall was joined by Hughes and other engravers. Outline color. Relief shown by hachures. Gilt edges on text and map pages. Every map faced with a sheet of bound-in tissue paper.
+Pub List No	3937.000
+Pub Type	World Atlas
+Pub Maps	54
+Pub Height cm	46
+Pub Width cm	34
+Image No	3937037.jp2
+Download 1	<a href=http://www.davidrumsey.com/rumsey/download.pl?image=/171/3937037.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Authors	Black, Adam; Black, Charles; Hall, Sydney
